@@ -1,0 +1,10 @@
+{
+  "api": {
+    "mode": "live",
+    "client_id": "AQ9kDdbvIywXbcWoMBiJndOMp_A78k3RN8XsPPK7pnQTB8YgE_74lnd2HIDaX7CElZ045M-ggjeR8-fh",
+    "client_secret": "EIapDm2gPSVqsgyZoMxHPELCte9bKDYx_aCSZVlpLA-vBNue-ieMURSAX9q9XC6T_U0gXEW3lzWPhJX-",
+    "headers" : {
+      "custom" : "header"
+    }
+  }
+}
